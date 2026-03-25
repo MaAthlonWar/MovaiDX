@@ -6,7 +6,7 @@ A 3D Print Maimai Controller Version 1.0
 ## 你可以加入QQ群聊：887571194 讨论有关手台的一切事宜
 
 ## 许可声明
-本项目采用 [CC-BY-NC-SA](./LICENSE) 进行授权。
+本项目采用 [CC BY-NC-SA 4.0](./LICENSE) 进行授权。
 
 ## 版本说明与文档
 如果你正在寻找 **Version 1.0** 的稳定版本硬件设计与组装说明，请访问以下链接：
