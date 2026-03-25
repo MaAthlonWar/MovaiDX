@@ -41,6 +41,7 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 ## 2. iOS 设备
 * **MajDataPlay**：目前已支持。可通过 TestFlight 版或 GitHub Nightly 的 IPA 文件安装。
 * **AstroDX**：iOS 版目前存在系统级 API 调用差异（GCKeyboard），存在抬起延迟，表现为长按判定失效或连打中断，相关开发者正在修复中，预计 4 月份更新支持。
+* **KanadeDX**：由于开发者未提供针对性支持（GCKeyboard），即使 1.50 及更早版本也无法使用键盘输入。
 
 ## 3. 你可能需要了解的配置说明
 
