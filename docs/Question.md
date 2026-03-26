@@ -53,12 +53,14 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 ## 3. 你可能需要了解的配置说明
 
 ### MajDataPlay
-1. **启用键盘**：需进入 `内置存储/Documents/MajdataPlay/settings.json`。
-2. 将 `"EnableKeyboardInput"` 的值修改为 `true`。
+* [Github 下载地址](https://github.com/LingFeng-bbben/MajdataPlay/releases)
+* **启用键盘**：需进入 `内置存储/Documents/MajdataPlay/settings.json`。
+* 将 `"EnableKeyboardInput"` 的值修改为 `true`。
     * *提示*：若系统自带文件管理器无法修改 JSON，请下载第三方编辑器。
-3. **关键操作**：必须在**启动游戏前**先接入 MovaiDX 手台。
-4. **画面调整**：在 `设置 -> 显示设置` 中可调整画面比例、偏移与缩放。如需更精细的调节，可在 `settings.json` 中直接修改数值。
+* **关键操作**：必须在**启动游戏前**先接入 MovaiDX 手台。
+* **画面调整**：在 `设置 -> 显示设置` 中可调整画面比例、偏移与缩放。如需更精细的调节，可在 `settings.json` 中直接修改数值。
 
 ### AstroDX
+* [Github 下载地址](https://github.com/2394425147/astrodx/releases)
 * **即插即用**：键盘模式为原生支持，无需额外开启。
 * **画面调整**：在 `设置 -> 游戏` 中调整“游戏区域大小”和“游戏区域垂直位移”。若选项缺失，请检查并更新至最新版本。
