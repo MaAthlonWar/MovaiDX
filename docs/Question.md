@@ -43,6 +43,7 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 * **KanadeDX**：仅限 1.50 及更早版本（新版本已移除键盘输入支持）。
 * **AstroDX**：推荐使用 GitHub RC 2.0 及以上版本。
 * **MajDataPlay**：推荐使用 GitHub Nightly 或 Google Play 版本。
+    * **注意** 当你在 Github 下载用于 Android 系统的软件时，绝大多数情况应该下载后缀为 **`arm64-v8a`** 的文件.
 
 ## 2. iOS 设备
 * **MajDataPlay**：目前已支持。可通过 TestFlight 版或 GitHub Nightly 的 IPA 文件安装。
