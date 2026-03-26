@@ -51,16 +51,32 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 * **KanadeDX**：由于开发者未提供针对性支持（GCKeyboard），即使 1.50 及更早版本也无法使用键盘输入。
 
 ## 3. 你可能需要了解的配置说明
+> **在使用 MovaiDX 游玩第三方模拟软件前，请务必仔细阅读并遵守以下说明。**
 
-### MajDataPlay
-* [MajDataPlay Github 下载地址](https://github.com/LingFeng-bbben/MajdataPlay/releases)
-* **启用键盘**：需进入 `内置存储/Documents/MajdataPlay/settings.json`。
-* 将 `"EnableKeyboardInput"` 的值修改为 `true`。
-    * *提示*：若系统自带文件管理器无法修改 JSON，请下载第三方编辑器。
-* **关键操作**：必须在**启动游戏前**先接入 MovaiDX 手台。
+### 1. MajDataPlay
+* **下载地址**：[GitHub Releases](https://github.com/LingFeng-bbben/MajdataPlay/releases)
+* **快捷配置**：
+    * 需进入内置存储路径：`Documents/MajdataPlay/settings.json`
+    * 将 `"EnableKeyboardInput"` 的值修改为 `true`。
+    * *提示：若系统自带文件管理器无法编辑 JSON，请使用第三方编辑器。*
+* **关键操作**：**必须在启动游戏前**先接入 MovaiDX 手台，否则可能导致无法识别。
 * **画面调整**：在 `设置 -> 显示设置` 中可调整画面比例、偏移与缩放。如需更精细的调节，可在 `settings.json` 中直接修改数值。
+* **严禁在公众场合游玩官方谱面，或将带有官方谱面的游玩视频、图片发布至社交媒体平台。**
 
-### AstroDX
-* [AstroDX Github 下载地址](https://github.com/2394425147/astrodx/releases)
-* **即插即用**：键盘模式为原生支持，无需额外开启。
+### 2. AstroDX
+* **下载地址**：[GitHub Releases](https://github.com/2394425147/astrodx/releases)
+* **适配性**：原生支持键盘模式，MovaiDX 接入后即可**即插即用**。
 * **画面调整**：在 `设置 -> 游戏` 中调整“游戏区域大小”和“游戏区域垂直位移”。若选项缺失，请检查并更新至最新版本。
+* 出于版权保护考量，**不建议**在公众视野下游玩或公开发布相关游玩内容。
+
+## 3. KanadeDX
+考虑到移动端优化、手台适配程度和潜在版权因素，**我们不建议使用 MovaiDX 游玩 KanadeDX**。若您执意使用，必须严格遵守以下准则：
+1.  严禁在公共游戏厅（尤其是官方 maimai DX 机台旁）游玩。
+2.  严禁将游玩时产生的图片、视频等内容发布到任何公众平台。
+3.  严禁将运行 KanadeDX 的 MovaiDX 带到漫展、音游嘉年华等公开场合展示或游玩。
+4.  严禁在社群内公开讨论有关 KanadeDX 的资源、群组、Discord 频道等。
+
+## 免责条款
+1.  MovaiDX 仅作为硬件外设驱动，不包含、不提供、不分发任何受版权保护的游戏程序、音频或谱面资源。
+2.  用户因违反上述声明（包括但不限于在不当场合游玩、发布违规内容等）而产生的一切版权纠纷、法律责任或社区争议，**均由用户本人承担**。
+3.  MovaiDX 开发团队不为使用第三方软件产生的任何后果提供担保，并保留对本项目外设使用的最终建议权。
