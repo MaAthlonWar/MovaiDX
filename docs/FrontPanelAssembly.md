@@ -13,9 +13,10 @@
 * 拿出前面板 Part1 和 Part2，在缝隙处涂上胶水涂好后拼合到一起：
     * 推荐使用慢干胶等有体积、能填缝的胶水，比如 3M 红色万能胶。
     * 切片文件中包含了一个前面板粘接辅助器，你可以使用它卡入到前面板的对应凹槽处确保粘接牢固。
-    * ![前面板粘接辅助器](https://github.com/user-attachments/assets/cf95b2a2-bbda-45ef-8f3e-29e07f6db048)
-    * ![卡入到前面板的对应凹槽处](https://github.com/user-attachments/assets/92903fa4-d742-4d0e-9919-1e72d343fcf8)
+<img src="https://github.com/user-attachments/assets/85597104-c509-4bb4-ad7b-d0299a69d901" width="300">
+<img src="https://github.com/user-attachments/assets/85597104-c509-4bb4-ad7b-d0299a69d901" width="300">
     * 在做好这一切后，将前面板放置在一个平整的地方，推荐采用双面加紧再外加重力压紧的方式固定，确保粘接牢固。
+    * 等待 8 小时以上，直到 **轻掰** 前面板无法造成变形时，再进行下一步。
 
   ## 3. 安装 MovaiDX 轮盘
 
