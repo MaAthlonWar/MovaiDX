@@ -31,7 +31,7 @@
         
     * 把 **FPC软排线** 沿着轮盘上方的缺口插入，然后把轮盘安装到预定位置。<br>
         <img src="https://github.com/user-attachments/assets/80788af0-8df4-440c-aaf2-6200ef9952e1" width="300">
-        <img src="https://github.com/user-attachments/assets/aa509cf0-ca9b-49f3-9e51-270c43115b32" width="300">
+        <img src="https://github.com/user-attachments/assets/aa509cf0-ca9b-49f3-9e51-270c43115b32" height="225">
 
     * 安装好后，确保四边留的缝隙是等宽的，将前面板放置在一个平整的地方，同样使用重力压紧的方式，确保粘接牢固。<br>
         <img src="https://github.com/user-attachments/assets/a6a9d55c-41db-4cfb-bcc6-bdcd1ec00bac" width="300">
