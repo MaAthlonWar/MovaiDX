@@ -22,14 +22,22 @@
     * 等待 8 小时以上，直到 **轻掰** 前面板无法造成变形时，再进行下一步。
 
 ## 3. 安装 MovaiDX 轮盘
-* 拿出 拼装好的前面板、FPC软排线、前面板转接板、轮盘后，按以下步骤操作：
+* 拿出 拼装好的前面板、FPC软排线、轮盘后，按以下步骤操作：
     * 将 **FPC软排线** 安装到 轮盘的 **12Pin排线座** 上，并压紧排线座扳手。<br>
         <img src="https://github.com/user-attachments/assets/ed238de5-3fb0-48fc-a13a-eaa17e696166" width="300">
         
     * 在 **拼装好的前面板** 的八个白色突起上涂 **502等快干型胶水**。<br>
         <img src="https://github.com/user-attachments/assets/227d4b55-af44-4e3d-9b86-1379fe59fee5" width="300">
         
-    *
-  
-    *
+    * 把 **FPC软排线** 沿着轮盘上方的缺口插入，然后把轮盘安装到预定位置。<br>
+        <img src="https://github.com/user-attachments/assets/80788af0-8df4-440c-aaf2-6200ef9952e1" width="300">
+        <img src="https://github.com/user-attachments/assets/aa509cf0-ca9b-49f3-9e51-270c43115b32" width="300">
+
+    * 安装好后，确保四边留的缝隙是等宽的，将前面板放置在一个平整的地方，同样使用重力压紧的方式，确保粘接牢固。<br>
+        <img src="https://github.com/user-attachments/assets/a6a9d55c-41db-4cfb-bcc6-bdcd1ec00bac" width="300">
+
+    * 若使用 **502等快干型胶水**，等待十分钟后即可进入下一步，否则你仍然需要等待 8 小时以上。
+
+## 4. 安装 MovaiDX 转接板
+* 拿出 拼装好的前面板和轮盘、MovaiDX 前面板转接板后，按以下步骤操作：
   
