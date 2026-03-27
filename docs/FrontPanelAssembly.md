@@ -24,9 +24,11 @@
 ## 3. 安装 MovaiDX 轮盘
 * 拿出 拼装好的前面板、FPC软排线、前面板转接板、轮盘后，按以下步骤操作：
     * 将 **FPC软排线** 安装到 轮盘的 **12Pin排线座** 上，并压紧排线座扳手。
+
         <img src="https://github.com/user-attachments/assets/ed238de5-3fb0-48fc-a13a-eaa17e696166" width="300">
         
     * 在 **拼装好的前面板** 的八个白色突起上涂 **502等快干型胶水**。
+
         <img src="https://github.com/user-attachments/assets/227d4b55-af44-4e3d-9b86-1379fe59fee5" width="300">
         
     *
