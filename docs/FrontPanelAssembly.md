@@ -17,7 +17,10 @@
     <img src="https://github.com/user-attachments/assets/85597104-c509-4bb4-ad7b-d0299a69d901" width="300">
     
     * 在做好这一切后，将前面板放置在一个平整的地方，推荐采用双面加紧再外加重力压紧的方式固定，确保粘接牢固。
+    * <img src="https://github.com/user-attachments/assets/de39a0cd-5b3f-446b-b192-929b67394e4e" width="300">
+
     * 等待 8 小时以上，直到 **轻掰** 前面板无法造成变形时，再进行下一步。
 
-  ## 3. 安装 MovaiDX 轮盘
-
+## 3. 安装 MovaiDX 轮盘
+* 拿出 FPC软排线、前面板转接板、轮盘后，按以下步骤操作：
+    * 
