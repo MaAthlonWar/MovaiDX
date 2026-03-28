@@ -13,7 +13,7 @@ A 3D Print Maimai Controller Version 1.0
 
 * [1.0 版本 组装教程](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/Assembly.md)
     * [MovaiDX 1.0 前面板组装](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/FrontPanelAssembly.md)
-     
+    * [MovaiDX 1.0 主框体组装](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/MainFrameAssembly.md)
 
 * [1.0 版本 问题解答](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/Question.md)
 
