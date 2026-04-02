@@ -40,12 +40,12 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 
 ## 1. Android 设备
 目前有三款主流软件可供选择：
-* **KanadeDX**：仅限 1.50 及更早版本（新版本已移除键盘输入支持）。
-* **AstroDX**：推荐使用 GitHub RC 2.0 及以上版本。
 * **MajDataPlay**：绝大多数情况、你可以直接通过 **GooglePlay Store** 下载，如果想追求每日更新版本体验最新特性、可通过下载 GitHub Nightly 的 APK 文件安装。
-    * **注意** 当你在 Github 下载用于 Android 系统的软件时，绝大多数情况应该下载后缀为 **`arm64-v8a`** 的文件.
+* * **AstroDX**：推荐使用 GitHub RC 2.0 及以上版本。
+* **KanadeDX**：仅限 1.50 及更早版本（新版本已移除键盘输入支持）。
 
 ## 2. iOS 设备
+目前仅有一款软件可供选择：
 * **MajDataPlay**：绝大多数情况、你可以直接通过 **AppStore** 下载，如果想追求每日更新版本体验最新特性、可通过 TestFlight 版或下载 GitHub Nightly 的 IPA 文件安装。
 * **AstroDX**：iOS 版目前存在系统级 API 调用差异（GCKeyboard），存在抬起延迟，表现为长按判定失效或连打中断，相关开发者正在修复中，预计 4 月份更新支持。
 * **KanadeDX**：由于开发者未提供针对性支持（GCKeyboard），即使 1.50 及更早版本也无法使用键盘输入。
@@ -56,6 +56,7 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 ### 1. MajDataPlay
 * **绝大多数情况、你可以直接通过 GooglePlay Store 和 AppStore 下载！**
 * **开发版下载地址**：[GitHub Releases](https://github.com/LingFeng-bbben/MajdataPlay/releases)
+    * **注意** 当你在 Github 下载用于 Android 系统的软件时，绝大多数情况应该下载后缀为 **`arm64-v8a`** 的文件.
 * **快捷配置**：
     * 需进入内置存储路径：`Documents/MajdataPlay/settings.json`
     * 将 `"EnableKeyboardInput"` 的值修改为 `true`。
@@ -66,6 +67,7 @@ MovaiDX 支持多种移动端模拟器，不同平台的配置要求如下：
 
 ### 2. AstroDX
 * **下载地址**：[GitHub Releases](https://github.com/2394425147/astrodx/releases)
+    * **注意** 当你在 Github 下载用于 Android 系统的软件时，绝大多数情况应该下载后缀为 **`arm64-v8a`** 的文件.
 * **适配性**：原生支持键盘模式，MovaiDX 接入后即可**即插即用**。
 * **画面调整**：在 `设置 -> 游戏` 中调整“游戏区域大小”和“游戏区域垂直位移”。若选项缺失，请检查并更新至最新版本。
 * 出于版权保护考量，**不建议**在公众视野下游玩或公开发布相关游玩内容。
